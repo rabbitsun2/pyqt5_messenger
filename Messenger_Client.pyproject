@@ -1,0 +1,3 @@
+{
+    "files": ["model/__init__.py","service/__init__.py","model/Model.py","loginWindow.py","Connection.py","mainWindow.py","utils/__init__.py","service/Service.py","redialog.ui"]
+}
